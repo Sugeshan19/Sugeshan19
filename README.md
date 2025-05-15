@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 Reach out me through sugeshans19@gmail.com
 - 😄 Pronouns: He
-PROGRAMING LANGUAGE
+- PROGRAMING LANGUAGE
 PYTHON
 C PROGRAMMING
 
-WEB DEVELOPMENT
+- WEB DEVELOPMENT
 HTML
 HTML5
 CSS
