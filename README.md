@@ -5,7 +5,7 @@
 - 📫 Reach out me through sugeshans19@gmail.com
 - 😄 Pronouns: He
 - PROGRAMING LANGUAGE
-<img width="348" height="347" alt="image" src="https://github.com/user-attachments/assets/14922cb4-e4f0-4f61-b6e1-132c4833050f" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/14922cb4-e4f0-4f61-b6e1-132c4833050f" />
 -PYTHON
 -C PROGRAMMING
 
