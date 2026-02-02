@@ -34,6 +34,10 @@ I enjoy building **real-world applications**, learning modern technologies, and 
   <img src="https://github.com/user-attachments/assets/9940e6e0-a6bd-44a1-9c3f-a52614618820" width="65"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="35"/>
+  &nbsp;&nbsp;
+  <img width="45" src="https://github.com/user-attachments/assets/d58e96ec-980a-45a8-af6c-5c0c38528600" />
+
+
 </p>
 
 ### Tools & Design
