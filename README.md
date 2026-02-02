@@ -18,10 +18,7 @@
 - WEB DEVELOPMENT
 
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0de4c357-f29d-4251-94e1-822884e623f3" /> -HTML5
-
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d31faf28-521b-4c7d-a012-96169de7df4a" /> -CSS
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0de4c357-f29d-4251-94e1-822884e623f3" /> -HTML5                             <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d31faf28-521b-4c7d-a012-96169de7df4a" /> -CSS
 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9940e6e0-a6bd-44a1-9c3f-a52614618820" /> -JAVA SCRIPT
