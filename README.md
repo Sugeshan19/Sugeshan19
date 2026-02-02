@@ -13,7 +13,9 @@
 - PROGRAMING LANGUAGE
 
 
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" /> -PYTHON                               <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05f31773-1ddb-401f-81bf-966aeb3e4202" /> -C PROGRAMMING                                                      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b48909a3-49ed-4301-8d83-cf354d831a65" /> -OOPS with JAVA
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" /> -PYTHON
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05f31773-1ddb-401f-81bf-966aeb3e4202" /> -C PROGRAMMING
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b48909a3-49ed-4301-8d83-cf354d831a65" /> -OOPS with JAVA
 
 - WEB DEVELOPMENT
 
