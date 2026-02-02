@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="mailto:sugeshansenthilv@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Sugeshan19">GitHub</a>
+  <a href="https://github.com/Sugeshan19">GitHub</a>   •
+  <a href="https://sugeshanportfolio.vercel.app/home">Portfolio</a>
 </p>
 
 ---
