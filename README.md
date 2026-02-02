@@ -36,7 +36,10 @@ I enjoy building **real-world applications**, learning modern technologies, and 
   <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="35"/>
   &nbsp;&nbsp;
   <img width="45" src="https://github.com/user-attachments/assets/d58e96ec-980a-45a8-af6c-5c0c38528600" />
-
+  &nbsp;&nbsp;
+  <img width="45" src="https://github.com/user-attachments/assets/441d6af3-70b1-4383-841a-fba9e97074bf" />
+  &nbsp;&nbsp;
+  <img width="45" src="https://github.com/user-attachments/assets/124d2411-ce05-4e7d-b8b6-77948764af69" />
 
 </p>
 
