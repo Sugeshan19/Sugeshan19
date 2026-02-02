@@ -27,13 +27,13 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ### Web Development
 <p>
-  <img src="https://github.com/user-attachments/assets/0de4c357-f29d-4251-94e1-822884e623f3" width="60"/>
+  <img src="https://github.com/user-attachments/assets/0de4c357-f29d-4251-94e1-822884e623f3" width="50"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/d31faf28-521b-4c7d-a012-96169de7df4a" width="30"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/9940e6e0-a6bd-44a1-9c3f-a52614618820" width="65"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="45"/>
+  <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="35"/>
 </p>
 
 ### Tools & Design
