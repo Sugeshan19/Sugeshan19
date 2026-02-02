@@ -38,20 +38,18 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ### Tools & Design
 <p>
-  <img src="https://github.com/user-attachments/assets/a269f470-6b79-4044-b76f-98b5b13ca983" width="45"/>
+  <img src="https://github.com/user-attachments/assets/a269f470-6b79-4044-b76f-98b5b13ca983" width="55"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-> *(This section is critical for recruiters)*
 
 ### 🔹 YUVA Club Management System
 - Full-stack web application for student organization management  
 - Role-based authentication, dashboards, and membership handling  
 - Tech Stack: **React, Node.js, MongoDB, JWT**
 
-👉 *(Pin this repository on your profile)*
 
 ---
 
