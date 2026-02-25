@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>SUGESHAN S</strong>
 </h1>
 
 <h3>Full Stack Developer | MERN • Python • Flutter</h3>
@@ -29,30 +29,23 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/sugeshan.">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/Sugeshan19">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
+  <a href="https://www.instagram.com/its_sugesh_19/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="www.linkedin.com/in/sugeshan-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+  </p>
 
 
   <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
