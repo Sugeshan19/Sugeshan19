@@ -1,78 +1,122 @@
-<h1 align="center">Sugeshan</h1>
-<h3 align="center">Full Stack Developer | B.E Computer Science Engineering</h3>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Midhun NK</strong>
+</h1>
+
+<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike.devlogs">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mike_devlogs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## ❤️ Support Me
 
 <p align="center">
-  <a href="mailto:sugeshansenthilv@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Sugeshan19">GitHub</a>   •
-  <a href="https://sugeshanportfolio.vercel.app/home">Portfolio</a>
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
 </p>
 
----
-
-## 👨‍💻 Profile Summary
-I am a **Computer Science Engineering student** with hands-on experience in **full-stack web development**.  
-I enjoy building **real-world applications**, learning modern technologies, and collaborating on impactful projects.
-
----
-
-## 🧠 Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/05f31773-1ddb-401f-81bf-966aeb3e4202" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/b48909a3-49ed-4301-8d83-cf354d831a65" width="45"/>
-</p>
-
-### Web Development
-<p>
-  <img src="https://github.com/user-attachments/assets/0de4c357-f29d-4251-94e1-822884e623f3" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d31faf28-521b-4c7d-a012-96169de7df4a" width="30"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9940e6e0-a6bd-44a1-9c3f-a52614618820" width="65"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ddfb04e7-ff79-4861-8745-ed0c12c8678f" width="35"/>
-  &nbsp;&nbsp;
-  <img width="45" src="https://github.com/user-attachments/assets/d58e96ec-980a-45a8-af6c-5c0c38528600" />
-  &nbsp;&nbsp;
-  <img width="45" src="https://github.com/user-attachments/assets/441d6af3-70b1-4383-841a-fba9e97074bf" />
-  &nbsp;&nbsp;
-  <img width="45" src="https://github.com/user-attachments/assets/124d2411-ce05-4e7d-b8b6-77948764af69" />
-  &nbsp;&nbsp;
-  <img width="45" src="https://github.com/user-attachments/assets/3a464c97-b5be-4ff5-ba8c-85f1354f1a6a" />
-
-</p>
-
-### Tools & Design
-<p>
-  <img src="https://github.com/user-attachments/assets/a269f470-6b79-4044-b76f-98b5b13ca983" width="55"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 YUVA Club Management System
-- Full-stack web application for student organization management  
-- Role-based authentication, dashboards, and membership handling  
-- Tech Stack: **React, Node.js, MongoDB, JWT**
-
-
----
-
-## 🎯 What I’m Looking For
-- Internships / Entry-level roles in **Web Development**
-- Opportunities to work on **real-world projects**
-- Collaborative teams focused on learning and impact
-
----
-
-## 📫 Contact
-📧 **sugeshansenthilv@gmail.com**
-
----
-
-⭐ *Open to collaboration and continuous learning.*
+Displaying README.md.
